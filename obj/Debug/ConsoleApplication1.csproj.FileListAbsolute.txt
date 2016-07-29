@@ -1,0 +1,12 @@
+C:\Users\fellipe.barros\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\fellipe.barros\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\fellipe.barros\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\fellipe.barros\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\fellipe.barros\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\fellipe.barros\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\juan.gonzalez\Downloads\Como ser rasqui de facibuqui\Como ser rasqui de facibuqui\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\juan.gonzalez\Downloads\Como ser rasqui de facibuqui\Como ser rasqui de facibuqui\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\juan.gonzalez\Downloads\Como ser rasqui de facibuqui\Como ser rasqui de facibuqui\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\juan.gonzalez\Downloads\Como ser rasqui de facibuqui\Como ser rasqui de facibuqui\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\juan.gonzalez\Downloads\Como ser rasqui de facibuqui\Como ser rasqui de facibuqui\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\juan.gonzalez\Downloads\Como ser rasqui de facibuqui\Como ser rasqui de facibuqui\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
